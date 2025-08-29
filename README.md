@@ -1,7 +1,7 @@
-## Hi, Welcome to my Github 👋
+## Hi, I'm Shae. Welcome to my Github 🥷🏻
 
-- 🔭 I’m currently working on Python scripting, Splunk and Regex
-- 🌱 I’m currently learning everything I can about cybersecurity and working on hands-on skills with tools like Wireshark, Kali Linux, CyberChef etc.
+- 🔭 I’m currently studying for me CySa+ and working on scripting (HTML, CSS and JavaScript)
+- 🌱 Learning everything I can about cybersecurity and working on hands-on skills with tools like Wireshark, Kali Linux, CyberChef etc.
 - ⚡ Fun fact: The first ever "computer bug" was literally a bug (a moth that caused a malfunction in the Harvard Mark II computer in 1947)
 
 <!--
