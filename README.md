@@ -1,6 +1,6 @@
 ## Hi, I'm Shae. Welcome to my Github 🥷🏻
 
-- 🔭 I’m currently studying and have just received my CySa+ CS0-003 Certificate and also working on scripting (HTML, CSS and JavaScript)
+- 🔭 I’m currently studying and have just received my CySa+ Certificate and also working on scripting (HTML, CSS and JavaScript)
 - 🌱 Learning everything I can about cybersecurity and working on hands-on skills with tools like Wireshark, Kali Linux, CyberChef etc.
 - ⚡ Fun fact: The first ever "computer bug" was literally a bug (a moth that caused a malfunction in the Harvard Mark II computer in 1947)
 
