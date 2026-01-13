@@ -1,8 +1,8 @@
 ## Hi, I'm Shae. Welcome to my Github 🥷🏻
 
-- 🔭 I’m currently studying and have just received my CySa+ Certificate and also working on scripting (HTML, CSS and JavaScript)
+- 🔭 I've recently passed my CySa+ Certificate and am now working on the Investigating Windows Endpoints by 13Cubed (forensics)
 - 🌱 Learning everything I can about cybersecurity and working on hands-on skills with tools like Wireshark, Kali Linux, CyberChef etc.
-- ⚡ Fun fact: The first ever "computer bug" was literally a bug (a moth that caused a malfunction in the Harvard Mark II computer in 1947)
+- ⚡ Fun fact: Human error accounts for 95% of all data breaches
 
 - Feel free to check out my [portfolio](https://j1g54w-999.github.io/)
 
