@@ -1,8 +1,8 @@
 ## Hi, I'm Shae. Welcome to my Github 🥷🏻
 
-- 🔭 I've recently passed my CySa+ Certificate and am now working on the Investigating Windows Endpoints by 13Cubed (forensics)
-- 🌱 Learning everything I can about cybersecurity and working on hands-on skills with tools like Wireshark, Kali Linux, CyberChef etc.
-- ⚡ Fun fact: Human error accounts for 95% of all data breaches
+- 🔭 I've recently passed my Investigating Windows Endpoints certification by 13Cubed (forensics) getting the GOLD on my first try!
+- 🌱 I love learning new things and practicing my hands-on cyber skills with tools like Splunk, Wireshark and CyberChef to name a few
+- ⚡ Fun fact: There is a hacker attack every 39 seconds
 
 - Feel free to check out my [portfolio](https://j1g54w-999.github.io/)
 
