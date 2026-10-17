@@ -1,10 +1,10 @@
 ## Hey I'm Shae. Welcome to my Github 🤘🏽
 
-- 🔭 Goals: I'm a Blue-Teamer with a passion for technical Cybersecurity. 
-- 🌱 Bio: I love learning new things and practicing my hands-on cyber skills with tools like Splunk and Wireshark. I regularly do Blue Team labs (BTLO and CyberDefenders) and play around with Python too.
-- ⚡ Fun Fact: There is a hacker attack every 39 seconds
+- 🔭 Goals: Looking to break into Cybersecurity. I spend my time focusing on hands-on skills and expanding my toolkit.
+- 🌱 Bio: Started with defensive security—Splunk, Wireshark, BTLO, networking. Now expanding into red teaming and penetration testing. I've touched on Web Dev too.
+- ⚡ Fun Fact: Cybercrime is estimated to reach $10.5 trillion annually and could climb to $15.63 trillion by 2029
 
-- 📜 Recent Update: Completed my Investigating Windows Endpoints Certification by 13Cubed (Forensics). Got GOLD on my first try!
+- 📜 Recent Update: Got GOLD on IWE Cert by 13Cubed (Forensics). Focusing on HTB for some red team upskilling now with HTB and CTF's. Might look at a HTB cert next.
 
 - Check out my [portfolio](https://j1g54w-999.github.io/)
 
